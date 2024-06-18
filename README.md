@@ -1,1 +1,1 @@
-# vinay18
+# Edge Detection using python was carried out in jupyter notebook
